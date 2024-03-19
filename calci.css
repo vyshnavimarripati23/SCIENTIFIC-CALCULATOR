@@ -1,0 +1,36 @@
+table {
+	border: 10px solid;
+	background-color: grey;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 40px;
+}
+h1{
+    color:grey;
+    font-size: xx-large;
+    text-align: center;
+}
+input[type="button"] {
+	width: 100%;
+	padding: 20px 40px;
+	background-color:black;
+	color: white;
+	font-size: 24px;
+	font-weight: bold;
+	border: none;
+	border-radius: 20px;
+}
+
+input[type="text"] {
+	padding: 20px 240px;
+	font-size: 24px;
+	font-weight: bold;
+	border: none;
+	border-radius: 20px;
+	border: 2px solid black;
+	text-align: left;
+}
+
+display {
+	text-align: left;
+}
